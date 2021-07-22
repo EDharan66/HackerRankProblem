@@ -1,0 +1,1 @@
+![Alt text](/ProblemStatement/extra-long-factorials-English_page-0001.jpg)
