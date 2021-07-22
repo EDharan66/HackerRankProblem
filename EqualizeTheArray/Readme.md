@@ -1,0 +1,1 @@
+![Alt text](/ProblemStatement/equality-in-a-array-English_page-0001.jpg)
