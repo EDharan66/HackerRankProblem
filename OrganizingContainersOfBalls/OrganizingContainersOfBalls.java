@@ -12,7 +12,7 @@ import static java.util.stream.Collectors.toList;
 
 class Result5 {
 
-    /*
+    /**
      * Complete the 'organizingContainers' function below.
      *
      * The function is expected to return a STRING.
