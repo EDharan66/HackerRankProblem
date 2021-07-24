@@ -1,0 +1,1 @@
+![Alt text](/ProblemStatement/kaprekar-numbers-English_page-0001.jpg)
