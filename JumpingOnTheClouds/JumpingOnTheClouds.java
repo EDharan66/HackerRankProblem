@@ -1,14 +1,10 @@
 import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
-import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
+import java.util.ArrayList;
+import java.util.List;
 
 class Result3 {
 
-    /*
+    /**
      * Complete the 'jumpingOnClouds' function below.
      *
      * The function is expected to return an INTEGER.
